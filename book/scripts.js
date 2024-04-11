@@ -9,8 +9,20 @@
                 url: "https://www.youtube.com/embed/1MZoxuxAfTM?si=yIGPgkvrJ2R2AgQC",
             },
             {
-                title: "Read about JavaScript",
-                description: "A comprehensive guide to learning JavaScript.",
+                "title": "What's next for AI agentic workflows ft. Andrew Ng of AI Fund",
+                "description": "Andrew Ng, founder of DeepLearning.AI and AI Fund, speaks at Sequoia Capital's AI Ascent about what's next for AI agentic workflows and their potential to significantly propel AI advancements—perhaps even surpassing the impact of the forthcoming generation of foundational models.",
+                "type": "video",
+                "url": "https://www.youtube.com/embed/sal78ACtGTc?si=H61Oyx1p4892tkOd",
+            },
+            {
+                "title": "What's next for AI agents ft. LangChain's Harrison Chase",
+                "description": "Harrison Chase, founder of LangChain, speaks at Sequoia Capital's AI Ascent about what's next for agents in AI and the evolution of using language model to interact with the external world. Harrison identifies three critical areas of development for the next generation of agents that would make them production-ready and more impactful in the real world: planning, user experience and memory.",
+                "type": "video",
+                "url": "https://www.youtube.com/embed/pBBe1pk8hf4?si=kU9i5J0i5QNy-KPd",
+            },
+            {
+                title: "AI Transformation Playbook",
+                description: "How to lead your company into the AI era.",
                 type: "reading",
                 imageUrl: "https://businessdatasolutions.github.io/ai-playbook/book/docs/LandingAI_Transformation_Playbook_11-19.png",
                 readUrl: "https://businessdatasolutions.github.io/ai-playbook/book/docs/LandingAI_Transformation_Playbook_11-19.pdf"
@@ -42,13 +54,17 @@
                     <a href=${item.readUrl} target="_blank"><img src=${item.imageUrl} class="card-img-top" alt="${item.title}"></a>
                 `;
             }
+            
+            // Determine the footer class based on item.type
+            let footerClass = item.type === 'video' ? 'bg-info' : 'bg-warning';
+            
             cardContent += `
                 <div class="card-body">
                     <h5 class="card-title">${item.title}</h5>
                     <p class="card-text">${item.description}</p>
                 </div>
-                <div class="card-footer">
-                    <small class="text-muted">${item.type.toUpperCase()}</small>
+                <div class="card-footer ${footerClass}">
+                    <small class="">${item.type.toUpperCase()}</small>
                 </div>
             `;
 

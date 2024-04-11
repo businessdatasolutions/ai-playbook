@@ -1,4 +1,4 @@
-## Introduction to AI for Business
+# Introduction to AI for Business
 
 -   **The AI Revolution**: Understanding AI and its impact on industries.
 -   **Why AI?**: Benefits and challenges of adopting AI in business.

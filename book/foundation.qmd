@@ -1,18 +1,16 @@
-## Laying the Foundation
+# Laying the Foundation
 
-### **AI Readiness Assessment**
+## **AI Readiness Assessment**
 
 *Evaluating your company’s readiness for AI integration.*
 
-### **Building an AI Vision and Strategy**
+## **Building an AI Vision and Strategy**
 
 *Aligning AI initiatives with business objectives.*
 
 ```{=html}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScadWaIoMeR63xQOHY_APzzXHAVKeHuuOUzjYe-uMJ24fO8EA/viewform?embedded=true" width="640" height="3995" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ```
-
-
-### **Data Strategy and Infrastructure**
+## **Data Strategy and Infrastructure**
 
 *Establishing the backbone for AI technologies.*

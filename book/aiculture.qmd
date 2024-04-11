@@ -1,4 +1,4 @@
-## Building an AI-Driven Culture
+# Building an AI-Driven Culture
 
 -   **Change Management for AI**: Strategies for managing organizational change.
 -   **Fostering Innovation and Creativity**: Cultivating an AI-centric mindset.

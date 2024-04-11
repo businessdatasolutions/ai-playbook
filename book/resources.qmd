@@ -1,4 +1,4 @@
-## Resources and Tools
+# Resources and Tools
 
 -   **AI Development Tools**: Recommended software and tools for AI development.
 -   **Learning Resources**: Courses, certifications, and materials for continuous learning.

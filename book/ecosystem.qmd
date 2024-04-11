@@ -1,4 +1,4 @@
-## Building the AI Ecosystem
+# Building the AI Ecosystem
 
 -   **Technology Stack**: Overview of essential AI tools and platforms.
 

@@ -1,4 +1,4 @@
-## Scaling and Optimization
+# Scaling and Optimization
 
 -   **Scaling AI Solutions**: Strategies for expanding AI across the business.
 
