@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: content
+
+book:
+  title: "MPac AI Playbook"
+  author: "Rob Braun & Witek ten Hove"
+  date: "4/11/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - foundation.qmd
+    - ecosystem.qmd
+    - implementation.qmd
+    - scaling.qmd
+    - casestudies.qmd
+    - aiculture.qmd
+    - resources.qmd
+    - next.qmd
+    - appendices.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
