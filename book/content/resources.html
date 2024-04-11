@@ -228,8 +228,8 @@ ul.task-list li input[type="checkbox"] {
                 title: "Read about JavaScript",
                 description: "A comprehensive guide to learning JavaScript.",
                 type: "reading",
-                imageUrl: "../docs/LandingAI_Transformation_Playbook_11-19.png",
-                readUrl: "../docs/LandingAI_Transformation_Playbook_11-19.pdf"
+                imageUrl: "https://businessdatasolutions.github.io/ai-playbook/book/docs/LandingAI_Transformation_Playbook_11-19.png",
+                readUrl: "https://businessdatasolutions.github.io/ai-playbook/book/docs/LandingAI_Transformation_Playbook_11-19.pdf"
             },
             // Add more objects for each card you want to create
         ];
@@ -249,11 +249,13 @@ ul.task-list li input[type="checkbox"] {
             let cardContent;
             if (item.type === 'video') {
                 cardContent = `
-                    <iframe src="${item.url}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="card-img-top"></iframe>
+                    <div class="ratio ratio-16x9">
+                    <iframe src="${item.url}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="embed-responsive embed-responsive-16by9"></iframe>
+                    </div>
                 `;
             } else { // 'reading'
                 cardContent = `
-                    <img src="${item.imageUrl}" class="card-img-top" alt="${item.title}">
+                    <a href=${item.readUrl} target="_blank"><img src=${item.imageUrl} class="card-img-top" alt="${item.title}"></a>
                 `;
             }
             cardContent += `
