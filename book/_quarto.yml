@@ -25,6 +25,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    include-after-body: scripts.js
   pdf:
     documentclass: scrreprt
 

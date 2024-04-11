@@ -3,3 +3,13 @@
 -   **AI Development Tools**: Recommended software and tools for AI development.
 -   **Learning Resources**: Courses, certifications, and materials for continuous learning.
 -   **Communities and Events**: Connecting with the AI community.
+-   **Inspiration material**: Video's and further readings.
+
+```{=html}
+    <div class="container mt-5">
+        <div class="row" id="cards-container">
+            <!-- Cards will be inserted here -->
+        </div>
+    </div>
+```
+

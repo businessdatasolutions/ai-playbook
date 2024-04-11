@@ -226,6 +226,48 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+document.addEventListener('DOMContentLoaded', function () {
+    var data = [
+        {
+            title: "Learn JavaScript",
+            description: "This is a great video to get started with JavaScript.",
+            type: "video",
+            url: "https://www.youtube.com/embed/YOUR_VIDEO_ID",
+        },
+        {
+            title: "Read about JavaScript",
+            description: "A comprehensive guide to learning JavaScript.",
+            type: "reading",
+            imageUrl: "https://via.placeholder.com/150",
+            readUrl: "https://example.com/read-js"
+        },
+        // Add more objects for each card you want to create
+    ];
+
+    var cardsContainer = document.getElementById('cards-container');
+
+    data.forEach(function (item) {
+        var cardHtml = `
+            <div class="col-md-4">
+                <div class="card">
+                    ${item.type === 'video' ?
+                        `<iframe src="${item.url}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>` :
+                        `<img src="${item.imageUrl}" class="card-img-top" alt="${item.title}">`
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">${item.title}</h5>
+                        <p class="card-text">${item.description}</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">${item.type.toUpperCase()}</small>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        cardsContainer.innerHTML += cardHtml;
+    });
+});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
