@@ -5,6 +5,7 @@ project:
 book:
   title: "MPac AI Playbook"
   author: "Rob Braun & Witek ten Hove"
+  image: logo.png
   date: "4/11/2024"
   chapters:
     - index.qmd

@@ -221,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
       
       document.addEventListener('DOMContentLoaded', function () {
         
-        fetch('resources.json')
+        fetch('https://raw.githubusercontent.com/businessdatasolutions/ai-playbook/main/book/content/resources.json')
             .then(response => response.json())
             .then(data => {
             
@@ -273,8 +273,6 @@ ul.task-list li input[type="checkbox"] {
               
             })
             .catch(error => console.error('Error fetching JSON:', error));
-
-        
     });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
