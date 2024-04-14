@@ -3,7 +3,7 @@
       
       document.addEventListener('DOMContentLoaded', function () {
         
-        fetch('resources.json')
+        fetch('https://raw.githubusercontent.com/businessdatasolutions/ai-playbook/main/book/content/resources.json')
             .then(response => response.json())
             .then(data => {
             
