@@ -16,8 +16,8 @@ book:
     - ecosystem.qmd
     - implementation.qmd
     - scaling.qmd
-    - casestudies.qmd
     - aiculture.qmd
+    - businesscases.qmd
     - resources.qmd
     - next.qmd
     - appendices.qmd

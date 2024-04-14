@@ -80,23 +80,23 @@
     ]
   },
   {
-    "objectID": "casestudies.html",
-    "href": "casestudies.html",
-    "title": "7  Case Studies and Industry Insights",
-    "section": "",
-    "text": "Success Stories: Real-world examples of successful AI implementation.\nLessons Learned: Challenges faced and how they were overcome.\nFuture Trends: Upcoming AI trends and technologies to watch.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Case Studies and Industry Insights</span>"
-    ]
-  },
-  {
     "objectID": "aiculture.html",
     "href": "aiculture.html",
-    "title": "8  Building an AI-Driven Culture",
+    "title": "7  Building an AI-Driven Culture",
     "section": "",
     "text": "Change Management for AI: Strategies for managing organizational change.\nFostering Innovation and Creativity: Cultivating an AI-centric mindset.\nEthical AI Use: Promoting ethical considerations in AI projects.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Building an AI-Driven Culture</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Building an AI-Driven Culture</span>"
+    ]
+  },
+  {
+    "objectID": "businesscases.html",
+    "href": "businesscases.html",
+    "title": "8  Business cases",
+    "section": "",
+    "text": "Success Stories: Real-world examples of successful AI implementation.\nLessons Learned: Challenges faced and how they were overcome.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Business cases</span>"
     ]
   },
   {
