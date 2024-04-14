@@ -1,4 +1,57 @@
 ## Business cases
 
+**Section 1: AI-Driven Manufacturing Optimization**
+
+-   **Optimal Box Placement with AI**
+
+    -   Introduce the concept: Optimizing box placement through conveyor belt adjustments.
+
+    -   Explain Model Predictive Control (MPC) and Reinforcement Learning (RL) methods and their suitability for this problem.
+
+-   **Predicting Batch Length for Scheduling**
+
+    -   Describe the need for accurate batch length predictions.
+
+    -   Outline how previous batch data can inform schedules to improve efficiency and resource planning.
+
+-   **Predictive Maintenance with Servo Monitoring**
+
+    -   Highlight the use of amperage monitoring to identify potential machine wear and tear.
+
+    -   Discuss how proactive maintenance based on AI predictions can prevent downtime and costly repairs.
+
+-   **IMI as an Operator Support Tool**
+
+    -   Define IMI (you might need to explain this acronym for readers).
+
+    -   Explain how AI can augment the IMI system to provide enhanced insights and guidance to operators.
+
+**Section 2: AI for Smarter Sales and Service**
+
+-   **Automated Sales Quote Generation**
+
+    -   Describe how customers can input product requirements to receive tailored advice regarding machine solutions.
+
+    -   Outline how AI generates cost estimates and expected timelines while maintaining human oversight.
+
+-   **Predictive Service with Historical Data**
+
+    -   Explain how AI analyzes historical service data to anticipate maintenance needs, leading to proactive service scheduling.
+
+-   **AI-Powered Document Generation and Translation**
+
+    -   Introduce using Large Language Models (LLMs) to generate and translate technical documents.
+
+    -   Underscore how AI streamlines internal documentation and creates more accessible customer-facing materials.
+
+-   **Predicting Part Replacement for Optimal Inventory**
+
+    -   Discuss the correlation between spare part orders and machine wear.
+
+    -   Explain how AI models based on order history can optimize inventory levels and proactive replacement strategies.
+
+```{=html}
+<!-- -->
+```
 -   **Success Stories**: Real-world examples of successful AI implementation.
 -   **Lessons Learned**: Challenges faced and how they were overcome.

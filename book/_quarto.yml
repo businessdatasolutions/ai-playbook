@@ -3,11 +3,10 @@ project:
   output-dir: content
 
 book:
-  title: "MPac AI Playbook"
+  title: "AI Playbook"
   author: "Rob Braun & Witek ten Hove"
   date: "4/11/2024"
   navbar:
-    logo: logo.png
     search: true
   chapters:
     - index.qmd
@@ -29,7 +28,6 @@ format:
   html:
     theme: cosmo
     include-after-body: scripts.js
-    logo: logo.png
   pdf:
     documentclass: scrreprt
 
