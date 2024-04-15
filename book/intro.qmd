@@ -7,6 +7,8 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iH3WbwG09K8?si=wz4TSZxO3y-zDW1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ```
+
+
 Artificial intelligence (AI) is rapidly transforming the world around us. From the way we interact with technology to the fundamental nature of work, AI is reshaping industries and creating new opportunities and challenges. To make the most of the AI revolution, it's imperative for businesses to understand its potential and proactively prepare for the changes ahead.
 
 **What is AI?**

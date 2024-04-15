@@ -1,5 +1,66 @@
 # Building an AI-Driven Culture
 
--   **Change Management for AI**: Strategies for managing organizational change.
--   **Fostering Innovation and Creativity**: Cultivating an AI-centric mindset.
--   **Ethical AI Use**: Promoting ethical considerations in AI projects.
+## Change Management for AI: Strategies for managing organizational change.
+
+**Incorporating Agile Transformations for Future-Ready Organizations**
+
+Change has always been a constant in the corporate world, but the pace at which this change occurs has been accelerated by technological innovations, especially Artificial Intelligence (AI). To remain competitive and future-ready, organizations must embrace change management strategies that are flexible, responsive, and agile.
+
+The journey to AI implementation is not just about the technology; it's fundamentally a change management initiative that must be strategically managed to align with organizational objectives. An [Agile Transformation](https://doi.org/10.1007/s11301-020-00186-6), as discussed by industry experts, is not merely an operational shift but a paradigm change—a dynamic capability that enables organizations to quickly and effectively redeploy resources in response to internal and external changes.
+
+### Understanding the Drivers of Change
+
+Change is propelled by various drivers which can be internal, such as shifts in organizational strategy or workforce expectations, or external, like market developments or customer needs changes. The volatile, uncertain, and turbulent business environment of today necessitates a proactive approach to these drivers, turning them into opportunities for growth rather than threats.
+
+### The Role of Management in Agile Transformation
+
+Management's role is pivotal in guiding the organization through its Agile Transformation. The responsibilities include:
+
+-   **Observation:** Monitoring market developments and assessing risks/uncertainties.
+-   **Alignment:** Ensuring the organization’s agility capabilities are aligned with strategic objectives.
+-   **Prioritization:** Determining which changes necessitate immediate action and resource allocation.
+-   **Adaptation:** Modifying business processes to fit the changing environment and capabilities.
+
+### Enabling Agility in the Organization
+
+Agility is not inherent—it is enabled through deliberate and strategic actions. Management must foster the development of agility capabilities—responsiveness, speed, flexibility, and competency. This is achieved by:
+
+-   **Facilitating Agile Dimensions:** Management must ensure that supply chains, workforce, business processes, strategy, information systems, and facilities are conducive to agile practices.
+-   **Implementing Organizational Agility (OA):** Strategic efforts must be aimed at embracing agility not just in IT systems but across organizational architecture.
+
+![Organizational agility—a conceptual map [@walter2021organizational]](images/orgagility.png)
+
+### The Agile Framework: Integrating Agile Management into Business Strategy
+
+The attached diagram illustrates a framework for integrating agile management into the business strategy. It showcases how management observes and assesses the volatile business environment to derive relevant agility capabilities. These capabilities are prioritized and actualized through various enablers, which facilitate agility in key business dimensions—ultimately contributing to superior business performance and competitiveness.
+
+### From Agility to AI: The Transition
+
+The transition to AI is a subset of the broader agile transformation journey. AI, as an enabler, can augment responsiveness, speed up processes, and offer unprecedented flexibility and competency in handling data-driven decisions. However, like any other enabler, its success depends on how well it is integrated into the overall strategy and how receptive the workforce is to adopting new technologies.
+
+### Concluding Thoughts
+
+Agile Transformations powered by AI and other technologies are not a one-time project but a continuous journey. They require a shared purpose, a sense of urgency, and most importantly, an alignment with the strategic vision of the organization. With these elements in place, the transition to an AI-driven, agile organization can be a seamless and productive evolution.
+
+The story of the telco's transformation shared in the transcript mirrors this conceptual framework, emphasizing the importance of management's role in steering the organization towards agility and competitiveness. By focusing on these strategies, organizations can transform AI from a buzzword into a tangible asset for growth and resilience.
+
+
+```{=html}
+<div class="ratio ratio-16x9 mb-3">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wtmW89I941I?si=C-opmrxnyOW7rr_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
+## Fostering Innovation and Creativity: Cultivating an AI-centric mindset.
+
+```{=html}
+<div class="ratio ratio-16x9 mb-3">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VAq7qJ2nzAQ?si=AFlych5JmfeEsQPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
+## Ethical AI Use: Promoting ethical considerations in AI projects.
+
+```{=html}
+<div class="ratio ratio-16x9 mb-3">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O0tbK62b_Mo?si=VKn8BpiI0WGryOyp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
