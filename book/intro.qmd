@@ -22,7 +22,7 @@ AI is already making its mark across a wide range of industries:
 -   **Manufacturing:** AI-powered robots streamline production lines, optimize efficiency, and reduce costs.
 
 ```{=html}
-<div class="ratio ratio-16x9 m-3">
+<div class="ratio ratio-16x9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vOrhfyMe_EQ?si=hU9Mv6Ec5c1ODNP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ```
